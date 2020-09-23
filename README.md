@@ -1,12 +1,12 @@
 # Zubarska_Ordinacija
 
 Profil pacijenta{
-username: pacijent
+username: pacijent,
 password: lozinka
 }
 
 Profil zubara{
-username: zubar
+username: zubar,
 password: lozinka
 }
 
